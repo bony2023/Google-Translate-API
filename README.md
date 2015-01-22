@@ -1,7 +1,7 @@
 ## Google Translate API
 
 ```
-     NOTE: Not an official API. Nor does it uses the one.
+     NOTE: Not an official API. Nor does it uses one.
 ```
 
 ### Usage
