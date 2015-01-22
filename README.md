@@ -4,7 +4,7 @@
      NOTE: Not an official API. Nor does it uses one.
 ```
 
-## Usage
+### Usage
 
 Example in python:
 
