@@ -12,7 +12,7 @@ class NewTranslate:
             sys.exit(1)
         elif self.tl not in json_data:
             print '%s language not found' %tl
-            sys,exit(1)
+            sys.exit(1)
         elif self.tl=='detect-language':
             print 'Translation language should not be auto'
             sys.exit(1)
