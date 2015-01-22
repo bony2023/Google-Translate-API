@@ -1,4 +1,4 @@
-# Google Translate API
+## Google Translate API
 
 ```
      NOTE: Not an official API. Nor does it uses one.
